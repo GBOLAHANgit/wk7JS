@@ -1,0 +1,11 @@
+{
+  "name": "wk7",
+  "version": "1.0.0",
+  "description": "7th week on JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GBOLAHAN",
+  "license": "ISC"
+}
